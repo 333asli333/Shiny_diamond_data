@@ -2,9 +2,7 @@
 
 ---
 
-## **English Version**
-
-Welcome to this interactive **Shiny app**! 🌟  
+# Welcome to this interactive **Shiny app**! 🌟  
 
 Visualize **diamond data** dynamically with pastel colors based on user selections. 💎🎨  
 
